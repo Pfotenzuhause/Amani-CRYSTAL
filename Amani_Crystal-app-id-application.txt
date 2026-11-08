@@ -1,0 +1,66 @@
+AMANI CRYSTAL – MINECRAFT CLIENT APPLICATION ID REVIEW
+================================
+
+Project name: Amani Crystal
+
+Developer: Aman
+
+Contact email: amanometv@gmail.com
+
+PROJECT OVERVIEW
+
+Amani Crystal is an independently developed third-party client for
+Minecraft: Java Edition. It is designed to provide players with an
+alternative launcher and a customizable way to manage and start their
+Minecraft installations.
+
+The application is intended for users who own a legitimate copy of
+Minecraft: Java Edition.
+
+PURPOSE AND FEATURES
+
+The project aims to provide the following functionality, depending on
+the features implemented in the current release:
+
+-   A custom launcher interface
+-   Microsoft account sign-in
+-   Minecraft Java Edition account verification
+-   Minecraft version selection and management
+-   Mod and modpack management
+-   CurseForge integration for discovering and managing Minecraft mods
+-   Customizable client settings
+-   Performance-related settings and optimizations
+
+MICROSOFT AUTHENTICATION
+
+Microsoft sign-in is needed to authenticate users and verify access to
+Minecraft: Java Edition.
+
+The application is intended to use the appropriate official Microsoft
+and Minecraft authentication flow. It does not ask users to provide
+their Microsoft password directly to the developer.
+
+Authentication tokens are handled only as required for the sign-in and
+game-launching process. The implementation should follow Microsoft’s and
+Minecraft’s applicable security requirements.
+
+INTENDED AUDIENCE
+
+The intended audience is Minecraft: Java Edition players who want an
+alternative client with launcher features, customization and
+mod-management functionality.
+
+PROJECT STATUS
+
+Amani Crystal is independently developed and may still be under
+development. The feature list above describes the project’s intended
+functionality. Features that are not yet implemented should not be
+presented as currently available.
+
+CONTACT
+
+Email: amanometv@gmail.com
+
+Best regards,
+
+Aman
